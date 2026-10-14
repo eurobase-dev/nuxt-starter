@@ -24,5 +24,5 @@ npm run dev
 ## Learn more
 
 - [Getting started](https://eurobase.dev/docs/getting-started)
-- [How Nuxt runs on Eurobase (Workers)](https://eurobase.dev/docs/workers)
+- [How Nuxt runs on Eurobase](https://eurobase.dev/docs/workers)
 - [Plans and limits](https://eurobase.dev/docs/plans): the Free plan costs nothing.
